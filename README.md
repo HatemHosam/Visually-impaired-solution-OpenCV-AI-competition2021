@@ -7,3 +7,8 @@ vision algorithms in our solution to provide a street-scene perception.
 The recent semantic segmentation methods which are trained on the popular segmentation dataset
 “ADE20K” provide a detailed indoor and outdoor scenes understanding via segmentation. This model can be easily integrated in an AI neural inference unit with camera like OAK-D or raspberry pi. Another
 tool is integrated in our application which is the GPS which receive the desired location by the user, this GPS service is implemented using mobile application which receive the voice command get it on Google maps, then the smart phone provide the directions to the user through a custom mobile application, during the GPS navigation the OAK-D board is visualizing the street and provide the specific street pavement positioning, obstacle avoidance command until user reach to his destination.
+
+hardware requirements: </br>
+1- OpenCV AI Kit (OAK-D). </br>
+2- Raspberry pi 4.</br>
+
