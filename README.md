@@ -1,0 +1,1 @@
+# Visually-impaired-solution-OpenCV-AI-competition2021
