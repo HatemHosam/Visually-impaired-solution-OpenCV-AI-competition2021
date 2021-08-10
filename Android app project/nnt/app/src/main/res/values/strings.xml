@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">nnt</string>
+    <string name="google_maps_key">AIzaSyBWB7vyefcKfqJ1CLA3n98yMnPvadQ0BW0</string>
+    <string name="hello_world">OpenCv Project</string>
+</resources>
