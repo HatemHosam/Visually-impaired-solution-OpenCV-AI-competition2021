@@ -12,7 +12,11 @@ hardware requirements: </br>
 1- OpenCV AI Kit (OAK-D). </br>
 2- Raspberry pi 4.</br>
 
-Software requirements:
+Software requirements:</br>
 1- python 3.7.0 or above.</br>
 2- depth-ai='2.5.0.0'.</br>
-3- 
+3- opencv '4.5.1'.</br>
+4- Numpy '1.19.5'.</br>
+
+Mobile application build requirements:</br>
+1-Android studio 4.2.2.</br>
